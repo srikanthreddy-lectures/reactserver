@@ -1,7 +1,6 @@
 const mongoose = require("mongoose")
 
-const url = `mongodb+srv://<admin>:<password>@cluster0.s8ukydx.mongodb.net/demodb?retryWrites=true&w=majority`;
-
+const url = `mongodb+srv://srikanth:srikanth$$123$$*@cluster0.8h2mr.mongodb.net/demodb?retryWrites=true&w=majority`;
  const connectionParams={
     useNewUrlParser: true,
     useUnifiedTopology: true 
